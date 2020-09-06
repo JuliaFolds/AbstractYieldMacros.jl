@@ -1,5 +1,7 @@
 # AbstractYieldMacros
 
+[![GitHub Actions](https://github.com/JuliaFolds/AbstractYieldMacros.jl/workflows/Run%20tests/badge.svg)](https://github.com/JuliaFolds/AbstractYieldMacros.jl/actions?query=workflow%3ARun+tests)
+
 AbstractYieldMacros.jl provides `@yield` and `@yieldfrom` simplify
 defined as
 
